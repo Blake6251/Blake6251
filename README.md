@@ -25,5 +25,5 @@
 
 <h3 align="center">😎 My email adress 😎</h3>
 <p align="center">
-  <a href="mailto:yhh6251@gmail.com"><img src="https://img.shields.io/badge-Gmail-critical"><br>
+  <a href="mailto:yhh6251@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
